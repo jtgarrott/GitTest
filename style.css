@@ -1,8 +1,9 @@
 body {
-    background: #bababa;
+    background: #333333;
 }
 
 .title {
-    color: blue;
-    font-size: 20px;
+    color: green;
+    font-weight: bold;
+    font-size: 40px;
 }
